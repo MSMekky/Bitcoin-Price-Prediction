@@ -91,16 +91,6 @@ The script automatically:
 * Computes risk-adjusted performance.
 * Generates a final results dashboard saved to: `figures/bitcoin_prediction_results_FINAL.png`
 
----
-
-## Code Statistics
-
-| Category | Lines |
-| --- | --- |
-| **Total Lines** | 346 |
-| **Source Code** | 249 |
-| **Blank Lines** | 68 |
-| **Comments** | 29 |
 
 ---
 
@@ -119,3 +109,4 @@ The script automatically:
 * **License:** This project is provided for educational and research use only.
 
 ```
+
